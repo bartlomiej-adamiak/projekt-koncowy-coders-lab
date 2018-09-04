@@ -1,10 +1,5 @@
-# startingPoint
+projekt koncowy po kursie w Coder's lab
 
-yarn install albo npm install
-yarn run dev - starujemy server
-yarn run start - sam webpack
+gra przeglądarkowa ściągająca dane z Superhero Api
 
-albo 
-
-npm run dev 
-npm run start
+walki superbohaterów z różnych uniwersów
